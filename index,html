@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Bitter|Lora" rel="stylesheet">
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Jose Zalapa</p>
+			<a href="mailto:eatsomepie@gmail.com"><p id="email">eatsomepie@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To utlize the experiences I have learned and implement them into my business career.</p>
+			<h4>Experience</h4>
+			<p>Worked for Google</p>
+			<ul>
+				<li>Designed and implemented end-user features for the Google search engine</li>
+				<li>Analysis of statistical data from user input. </li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: C#, JavaScript, Python, Ruby, Java, PHP, Go, Haskell, Perl, Scala, Objective C</p>
+			<p>Frameworks: .NET, Node.js, Django, Ruby on Rails, Laravel, Symfony, CodeIgniter, Yii 2, Phalcon,Slim.</p>
+			<h4>Education</h4>
+			<p>Masters of Computer Science- Harvard
+			</p>
+			<p>Masters in Business Administration- Yale University
+			</p>
+			<ul>
+				<li>Award for best coder 4 years running (Harvard)</li>
+				<li>GPA: 4.7</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>314 Pie Street, Fresno, Ca 93703 | Tel: (559) 314-1592</p>
+		</div>
+	</body>
+</html>
